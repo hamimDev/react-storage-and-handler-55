@@ -1,0 +1,38 @@
+[
+    {
+      "id": "6564f7a11827e79b291e6963",
+      "picture": "http://placehold.it/32x32",
+      "price": 387,
+      "name": "Salas Hodge"
+    },
+    {
+      "id": "6564f7a10152efd6a569a9e1",
+      "picture": "http://placehold.it/32x32",
+      "price": 132,
+      "name": "Norton Hatfield"
+    },
+    {
+      "id": "6564f7a1be2e71cc4393f050",
+      "picture": "http://placehold.it/32x32",
+      "price": 46,
+      "name": "Larson Livingston"
+    },
+    {
+      "id": "6564f7a13894055094a4ef3c",
+      "picture": "http://placehold.it/32x32",
+      "price": 481,
+      "name": "Holt Leonard"
+    },
+    {
+      "id": "6564f7a1a314a0d007a4f932",
+      "picture": "./logo192.png",
+      "price": 372,
+      "name": "Cora Abbott"
+    },
+    {
+      "id": "6564f7a1da651a36af1a6978",
+      "picture": "http://placehold.it/32x32",
+      "price": 523,
+      "name": "Loraine Murray"
+    }
+  ]
